@@ -1,0 +1,24 @@
+﻿  IDT.cpp
+d:\study\delaunay\win\idt\geometry.h(43): warning C4018: “<”: 有符号/无符号不匹配
+d:\study\delaunay\win\idt\idt.cpp(130): warning C4018: “<”: 有符号/无符号不匹配
+d:\study\delaunay\win\idt\idt.cpp(148): warning C4018: “<”: 有符号/无符号不匹配
+d:\study\delaunay\win\idt\idt.cpp(199): warning C4018: “<”: 有符号/无符号不匹配
+d:\study\delaunay\win\idt\idt.cpp(208): warning C4018: “<”: 有符号/无符号不匹配
+d:\study\delaunay\win\idt\idt.cpp(236): warning C4018: “<”: 有符号/无符号不匹配
+d:\study\delaunay\win\idt\idt.cpp(253): warning C4018: “<”: 有符号/无符号不匹配
+d:\study\delaunay\win\idt\idt.cpp(347): warning C4018: “<”: 有符号/无符号不匹配
+d:\study\delaunay\win\idt\idt.cpp(352): warning C4018: “<”: 有符号/无符号不匹配
+d:\study\delaunay\win\idt\idt.cpp(363): warning C4018: “<”: 有符号/无符号不匹配
+d:\study\delaunay\win\idt\idt.cpp(373): warning C4018: “<”: 有符号/无符号不匹配
+d:\study\delaunay\win\idt\idt.cpp(375): warning C4018: “<”: 有符号/无符号不匹配
+d:\study\delaunay\win\idt\idt.cpp(377): warning C4018: “<”: 有符号/无符号不匹配
+d:\study\delaunay\win\idt\idt.cpp(380): warning C4018: “<”: 有符号/无符号不匹配
+d:\study\delaunay\win\idt\idt.cpp(389): warning C4018: “<”: 有符号/无符号不匹配
+d:\study\delaunay\win\idt\idt.cpp(343): warning C4101: “k”: 未引用的局部变量
+d:\study\delaunay\win\idt\idt.cpp(580): warning C4018: “<”: 有符号/无符号不匹配
+d:\study\delaunay\win\idt\idt.cpp(589): warning C4018: “<”: 有符号/无符号不匹配
+d:\study\delaunay\win\idt\idt.cpp(603): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  All 2012 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  IDT.vcxproj -> D:\Study\Delaunay\win\Release\IDT.exe

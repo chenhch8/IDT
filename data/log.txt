@@ -1,0 +1,10 @@
+pumpkin: 0.130915
+bunny: 0.058651
+cat: 0
+knot: 0.0127101
+venus: 0.117647
+torus3: 0.0580376
+test: 0
+test2: 0
+test3: 0
+test4: 0
